@@ -8,5 +8,5 @@ After this add-on installed and activated, press [Spacebar] then search 'connect
 
 In VSCode, configure the debugger to "Remote", then you can start debugging in VSCode.
 
-Inspired by https://github.com/sybrenstuvel/random-blender-addons/blob/master/remote_debugger.pyhon add-on debugger for Visual Studio Code
+Inspired by https://github.com/sybrenstuvel/random-blender-addons/blob/master/remote_debugger.py
 
